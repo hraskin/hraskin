@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Hugo!
 
-## About Me
-
 I'm a CS Student passionate about backend technologies. I love learning new things and try new technology. My goal is to improve myself everyday.
 
 ## 🌱 What I'm Learning
