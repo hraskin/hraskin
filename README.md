@@ -10,7 +10,7 @@ Dedicated and hardworking, I am committed to continually improving my skills and
 
 ### 🧬 Research Projects
 
-#### 🔹 [PRECOG](https://github.com/snail-unamur/PReQual-script)
+#### 🔹 [PRECOG](https://github.com/snail-unamur/PRECOG)
 
 A Visual Studio Code's plugin to provide reviewers with a quick overview of Pull Request complexity.  
 The research paper is available [here.](https://snail.info.unamur.be/publication/raskin-2025/)
